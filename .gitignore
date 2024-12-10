@@ -130,3 +130,4 @@ dmypy.json
 
 # FortiGate details including API keys
 fortigates.csv
+backups/
