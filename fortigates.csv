@@ -1,9 +1,0 @@
-name,ip_1,ip_2,token
-fw1,10.137.99.1,,d87Nf831w3td8ftz9xgns05q6xz340
-testfw,10.137.99.15,,mQr7H479fmGmbzqskytb3w4qs4tQ55
-intervdom,10.137.201.5,,0c3z0q0yxf9g7w7z6Gb857H8zpmH67
-gateway,10.137.109.5,,rt13skxk8gdpd8s8gNmnfk3y7ppsGx
-sdbranch-hub1,sdbranch-hub1.ftntmelb.com.au,,Q7rzkxpGcQqzd19qH0xjc3GbxqN0Gn
-sdbranch1,sdbranch1.ftntmelb.com.au,,HqNt14wwdrxfwzkHGh58h9Nm7mbt5n
-sdbranch2,sdbranch2.ftntmelb.com.au,,snQr47wmr1zNyh63pH3d5sjtsr1q9s
-
